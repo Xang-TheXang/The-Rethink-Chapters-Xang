@@ -8,17 +8,17 @@
 
 ---
 
-## 📜 Menu
+## Menu
 
-- [🎨 Credits](#credits)
-- [🖼️ Custom Sprites Contributions](#custom-sprites-contributions)
-- [📚 Rethink Chapters Information](#rethink-chapters-information)
-- [📦 Releases](#releases)
-- [🙏 Thank You](#thank-you)
+- [Credits](#credits)
+- [Custom Sprites Contributions](#custom-sprites-contributions)
+- [Rethink Chapters Information](#rethink-chapters-information)
+- [Releases](#releases)
+- [Thank You](#thank-you)
 
 ---
 
-## 🎨 Credits
+## Credits
 
 **Creator**  
 - `Xang`
@@ -33,7 +33,7 @@
 
 ---
 
-## 🖼️ Custom Sprites Contributions
+## Custom Sprites Contributions
 
 - `Xang`  
 - `Prezes` *(ArtistZiomal1458)*  
@@ -41,7 +41,7 @@
 
 ---
 
-## 📚 Rethink Chapters Information
+## Rethink Chapters Information
 
 | Detail           | Info             |
 |------------------|------------------|
@@ -50,7 +50,7 @@
 
 ---
 
-## 📦 Releases
+## Releases
 
 The Most Recent Versions And Better Versions Are Here
 
@@ -58,7 +58,7 @@ The Most Recent Versions And Better Versions Are Here
 
 ---
 
-## 🙏 Thank You
+## Thank You
 
 Thanks for playing **The Rethink Chapters**!  
 — `Xang`
