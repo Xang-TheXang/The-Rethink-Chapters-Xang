@@ -39,6 +39,7 @@
 - `Xang`  
 - `Prezes` *(ArtistZiomal1458)*  
 - `NotSoDogNinja`
+- `Velvetique`
 
 ---
 
