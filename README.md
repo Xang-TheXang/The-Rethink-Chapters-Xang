@@ -2,9 +2,8 @@
 **Created by Xang**
 
 > **Version 0.9.0**  
-> *The Rethink Chapters* adds depth with many levels across 16 chapters (for now >:)), offering fresh and engaging content to explore.  
-> *(⚠️ Versions v8.3 and before had 100+ levels and 20+ chapters. You can find those older releases [here](https://github.com/Xang-TheXang/Storyteller-Xang-Rethink-Chapters/releases). However, I (Xang) recommend starting with v0.9.0. While the older versions have more content, I believe v0.9.0 offers a better overall experience and gameplay.)*
-> You should combine Part 1 and Part 2 whenever Part 2 or Part 3 is released because... you know.
+> *The Rethink Chapters* adds depth with many levels across 24 chapters (for now >:)), offering fresh and engaging content to explore.  
+> *(⚠️ Versions v8.3 and before had 100+ levels and 20+ chapters. You can find those older releases [here](https://github.com/Xang-TheXang/Storyteller-Xang-Rethink-Chapters/releases). However, I (Xang) recommend starting with v0.9.0. I believe v0.9.0 offers a better overall experience and gameplay.)*
 
 ---
 
