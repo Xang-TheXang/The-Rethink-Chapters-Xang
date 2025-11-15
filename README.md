@@ -27,7 +27,7 @@
 - `Siddown`  
 - `NiceHandsomeFruit`
 
-**Illustration**  
+**Chapters' Illustrations**  
 - `Xang`
 
 ---
@@ -45,7 +45,7 @@
 
 | Detail           | Info             |
 |------------------|------------------|
-| Total Levels     | Not checked yet  |
+| Total Levels     |  142             |
 | Current Version  | `0.9.0`          |
 
 ---
