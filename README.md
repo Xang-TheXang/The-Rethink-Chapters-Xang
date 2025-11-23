@@ -45,6 +45,7 @@
 
 | Detail           | Info             |
 |------------------|------------------|
+| Total Chapters   |  26              |
 | Total Levels     |  142             |
 | Current Version  | `0.9.0`          |
 
